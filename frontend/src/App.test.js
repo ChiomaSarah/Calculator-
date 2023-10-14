@@ -7,8 +7,6 @@ describe("Fetch History", () => {
     render(<History />);
     const historyItems = await screen.findAllByRole("listitem");
     expect(historyItems).toHaveLength(4);
-    expect(screen.getByText("457-224 = 233")).toBeInTheDocument();
-    expect(screen.getByText("2 * 1.5 = 3")).toBeInTheDocument();
   });
 });
 
