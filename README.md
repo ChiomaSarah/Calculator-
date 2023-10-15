@@ -44,14 +44,14 @@ Navigate to the project directory:
 cd calculator-app
 ```
 
-Install server dependencies:
+Install backend dependencies:
 
 ```bash
 cd backend
 npm install
 ```
 
-Install client dependencies:
+Install frontend dependencies:
 
 ```bash
 cd frontend
@@ -64,10 +64,11 @@ Start the server:
 
 ```bash
 cd backend
-nodemon index.js
+npm start
 ```
 
 The server should now be running on http://localhost:9000.
+
 Start the React app:
 
 ```bash
