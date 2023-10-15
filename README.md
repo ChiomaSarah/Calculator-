@@ -2,7 +2,8 @@
 
 A simple calculator web application built using Node.js, MongoDB, and React. This calculator allows users to perform basic arithmetic operations and displays the result. Additionally, it can save and retrieve calculation history.
 
-<img width="150" alt="image" src="https://github.com/ChiomaSarah/Calculator-App/assets/78868674/758e864f-2d93-467b-84bb-044a17ccf6a8">
+![image](https://github.com/ChiomaSarah/Calculator-App/assets/78868674/38bc74aa-c37b-4b6b-b37e-149ae00f7f2f)
+
 
 ## Table of Contents
 
